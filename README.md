@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blu0/GhostTrace/main/ghosttrace_logo.png" alt="GhostTrace Logo" width="200"/>
+</p>
+
 # 👻 GhostTrace
 
 **GhostTrace** is a cross-platform desktop application for managing detection rules and threat hunting queries across multiple security platforms. Built with Python and Tkinter, it provides a unified interface for storing, editing, searching, and organizing detection logic used in security operations.
