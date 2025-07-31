@@ -1,0 +1,17 @@
+LICENSE
+
+Copyright © 2025 blu0
+
+This program is free software: you can use, modify, and distribute it under the terms of the GNU General Public License version 3 (GPLv3).
+
+You may not relicense this program under proprietary terms. Any modified versions or derived works must remain under GPLv3 and be distributed with access to source code.
+
+Attribution is required — the original author ("blu0") must be credited in any forks or distributions. You may not remove or alter credit notices.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the full GNU General Public License for more details.
+
+A copy of the license is available at:
+https://www.gnu.org/licenses/gpl-3.0.html
