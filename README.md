@@ -4,7 +4,7 @@
 
 > _“Every threat leaves a trace — if you know where to look.”_
 
-📦 [Download GhostTrace v1.0 ZIP](https://github.com/yourusername/yourrepo/releases/latest)
+📦 [Download GhostTrace v1.0 ZIP](https://github.com/blu0/GhostTrace/releases/latest)
 
 ---
 
